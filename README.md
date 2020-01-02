@@ -1,7 +1,7 @@
 ## Spotify Top Hits Ongoing Playlist
 This app uses https://github.com/plamere/spotipy to interact with Spotify API.
 
-This app will parse the Spotify Top Hits playlist and add those songs to a playlist. The app will add newly added songs to the top of this playlist.
+This app will parse the Spotify 'Today's Top Hits' playlist and add those songs to a playlist.
 
 ### Running app
 Setup ENV
