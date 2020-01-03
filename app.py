@@ -1,5 +1,4 @@
 import sys
-import json
 import pprint
 import spotipy
 import spotipy.util as util
